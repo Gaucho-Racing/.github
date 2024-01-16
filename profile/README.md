@@ -8,8 +8,8 @@ Gaucho Racing is the continuation of a rich history of motorsports in Santa Barb
 
 **Our Mission**
 
-FSAE Electric, launched in 2013, represents a cutting-edge addition to the Formula SAE competition. Our primary focus is on the development of vehicles powered exclusively by electric motors. This aligns perfectly with the global shift towards sustainable and eco-friendly transportation solutions. We believe in pushing the boundaries of innovation and embracing the future of motorsports.
+FSAE Electric, launched in 2013, represents a cutting-edge addition to the Formula SAE competition. Gaucho Racing aims to enable students to gain hands-on experience in all phases of the engineering process and propel them forward into their careers. As part of UCSB’s official SAE International Student Chapter, our main focus is to participate each year in the Formula SAE Electric Competition. This involves students working to research, design, and manufacture a single seater electric race car from the ground up.
 
 **Repository Overview**
 
-This GitHub repository serves as the central hub for all the software developed in-house by our talented UCSB students for high-performance motorsports. Here, you'll find a treasure trove of code, algorithms, and projects that power our cutting-edge electric vehicles. Our repository is organized to make it easy for you to explore and contribute:
+This GitHub repository serves as the central hub for all the software developed in-house by our talented UCSB team members for high-performance motorsports. Here, you'll find all of our code, algorithms, and projects that power our competitive electric vehicles.
