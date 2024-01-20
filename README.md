@@ -21,6 +21,7 @@ ACU | [repo](https://github.com/Gaucho-Racing/ACU2024) | Accumulator Control Uni
 BMS Module | [repo](https://github.com/Gaucho-Racing/GR24-BMS-Module) | Code for the custom BMS | `c++`
 Oven | [repo](https://github.com/Gaucho-Racing/oven) | Code for custon Carbon Fiber Curing Oven | `c++` `c`
 TCM | [repo](https://github.com/Gaucho-Racing/Full-TCM) | Telecommunications Module for Cloud Telemetry | `c++`
+ESC-TCR | [repo](https://github.com/Gaucho-Racing/ESC-TCR) | Electronic Stability and Traction Control | `matlab`
 Dashboard | [repo](https://github.com/Gaucho-Racing/Dashboard_24) | Custom On-Screen Dash for GR24 | `c++` 
 Simulation | [repo](https://github.com/Gaucho-Racing/GR24Dynamics) | Vehicle Dynamics and Thermal Simulation | `matlab`
 
