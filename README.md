@@ -19,7 +19,8 @@ CAN Nodes | [repo](https://github.com/Gaucho-Racing/GR24_CAN) | Controller Area 
 Mapache | [repo](https://github.com/Gaucho-Racing/Mapache) | Telemetry and Data Analytics Platform | `go` `python` `typescript`
 ACU | [repo](https://github.com/Gaucho-Racing/ACU2024) | Accumulator Control Unit, part of a custom BMS | `c` `assembly`
 BMS Module | [repo](https://github.com/Gaucho-Racing/GR24-BMS-Module) | Code for the custom BMS | `c++`
-TCM | [repo](https://github.com/Gaucho-Racing/TCM) | Telecommunications Module for Cloud Telemetry | `c++`
+Oven | [repo](https://github.com/Gaucho-Racing/oven) | Code for custon Carbon Fiber Curing Oven | `c++` `c`
+TCM | [repo](https://github.com/Gaucho-Racing/Full-TCM) | Telecommunications Module for Cloud Telemetry | `c++`
 Dashboard | [repo](https://github.com/Gaucho-Racing/Dashboard_24) | Custom On-Screen Dash for GR24 | `c++` 
 Simulation | [repo](https://github.com/Gaucho-Racing/GR24Dynamics) | Vehicle Dynamics and Thermal Simulation | `matlab`
 
