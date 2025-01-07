@@ -8,11 +8,16 @@ UCSB Formula SAE Software
 
 # Our Software:
 
+## 2024 - 2025 Season (GR25 EV)
+TCM | [repo](https://github.com/Gaucho-Racing/TCM-25) | Jetson Orin Telecomunications module | `c` `cuda`
+ECU | [repo](https://github.com/Gaucho-Racing/ECU-25) | Main Electronic Control Unit | `c` `assembly`
+ACU | [repo](https://github.com/Gaucho-Racing/ACU2025) | Accumulator Control Unit | `c`
+Website | [repo](https://github.com/Gaucho-Racing/Website) | Live Website for the Racing team | `typescript`
+
 ## 2023 - 2024 Season (GR24 EV)
 
 Software | Repo | Description | Codebase
 --- | --- | --- | ---
-Website | [repo](https://github.com/Gaucho-Racing/Website) | Live Website for the Racing team | `typescript`
 ECU Tuner | [repo](https://github.com/Gaucho-Racing/ECU-TUNING) | ECU and Vehicle Dynamics tuning platform for FSAE | `python`
 VDM | [repo](https://github.com/Gaucho-Racing/VDM-2024) | Vehicle Dynamics Module and Main ECU of GR24 | `c++` `c`
 CAN Nodes | [repo](https://github.com/Gaucho-Racing/GR24_CAN) | Controller Area Network Node Definitions | `c` 
