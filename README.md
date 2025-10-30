@@ -1,9 +1,7 @@
-# .github
-UCSB Formula SAE Software
-
-[github](https://github.com/Gaucho-Racing)
-
-[website](https://gauchoracing.com)
+# UCSB Formula SAE Software
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaucho-Racing)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+)](https://gauchoracing.com)
 
 
 # Our Software:
