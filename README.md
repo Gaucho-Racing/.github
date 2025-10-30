@@ -7,7 +7,15 @@
 
 # Our Software:
 
+## 2025 - 2026 Season (GR26 EV)
+
+Software | Repo | Description | Codebase
+--- | --- | --- | ---
+Firmware | [repo](https://github.com/Gaucho-Racing/Firmware) | All firmware boards inside of a monorepo | `c`
+... | ... | ... | ...
+
 ## 2024 - 2025 Season (GR25 EV)
+
 Software | Repo | Description | Codebase
 --- | --- | --- | ---
 TCM | [repo](https://github.com/Gaucho-Racing/TCM-25) | Jetson Orin Telecomunications module | `c` `cuda`
