@@ -15,6 +15,9 @@ TCM | [repo](https://github.com/Gaucho-Racing/TCM-25) | Jetson Orin Telecomunica
 ECU | [repo](https://github.com/Gaucho-Racing/ECU-25) | Main Electronic Control Unit | `c` `assembly`
 ACU | [repo](https://github.com/Gaucho-Racing/ACU2025) | Accumulator Control Unit | `c`
 Website | [repo](https://github.com/Gaucho-Racing/Website) | Live Website for the Racing team | `typescript`
+Dash Panel | [repo](https://github.com/Gaucho-Racing/Dash-Panel-V2-25/) | Dash Panel with screen | `c`
+Steering Panel | [repo](https://github.com/Gaucho-Racing/Dash-Panel-V2-25) | Steering Panel with screen | `c`
+CSV | [repo](https://github.com/Gaucho-Racing/csv-25) | CSV interperter for CAN spreadsheet | `python`
 
 ## 2023 - 2024 Season (GR24 EV)
 
